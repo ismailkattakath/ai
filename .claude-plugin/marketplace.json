@@ -1,0 +1,10 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ismailkattakath",
+  "description": "Agent Skills, MCP servers and Claude Code plugins I use and maintain in the open.",
+  "owner": {
+    "name": "Ismail Kattakath",
+    "url": "https://github.com/ismailkattakath"
+  },
+  "plugins": []
+}
